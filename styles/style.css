@@ -203,7 +203,6 @@ margin: 0 auto;
  margin-bottom: 90px;
  z-index: 1;
 }
-/* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
   color: white;
